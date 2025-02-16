@@ -1,10 +1,6 @@
 """
-Author: Anonymous during review process
-Institution: Anonymous during review process
-Date: Anonymous during review process
 Prune Before Training. One-shot pruning of the model before training.
 """
-
 # Imports
 import os
 import time

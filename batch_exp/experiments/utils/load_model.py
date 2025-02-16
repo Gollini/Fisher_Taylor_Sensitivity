@@ -1,7 +1,4 @@
 """
-Author: Anonymous during review process
-Institution: Anonymous during review process
-Date: Anonymous during review process
 Load models and optimizers for the experiments.
 """
 import os

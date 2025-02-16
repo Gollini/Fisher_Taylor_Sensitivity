@@ -1,7 +1,4 @@
 """
-Author: Anonymous during review process
-Institution: Anonymous during review process
-Date: Anonymous during review process
 Load datasets for the experiments.
 """
 from data.cifar import load_cifar_dataset

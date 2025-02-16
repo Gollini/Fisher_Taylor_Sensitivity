@@ -1,10 +1,6 @@
 """
-Author: Anonymous during review process
-Institution: Anonymous during review process
-Date: Anonymous during review process
 Compression algorithms for model pruning.
 """
-
 import os
 
 from tqdm import tqdm

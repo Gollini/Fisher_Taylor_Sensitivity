@@ -1,12 +1,7 @@
 """
-Author: Anonymous during review process
-Institution: Anonymous during review process
-Date: Anonymous during review process
 Main script to run the experiment(s) in the specified path.
 """
-
 #Imports
-
 import os
 import argparse
 

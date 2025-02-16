@@ -1,10 +1,6 @@
 """
-Author: Anonymous during review process
-Institution: Anonymous during review process
-Date: Anonymous during review process
 Parameters class to read and store the hyperparameters of an experiment.
 """
-
 import os
 import json
 

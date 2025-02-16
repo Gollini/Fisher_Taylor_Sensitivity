@@ -1,10 +1,6 @@
 """
-Author: Anonymous during review process
-Institution: Anonymous during review process
-Date: Anonymous during review process
 Logger class to log the metrics, warnings and errors of an experiment.
 """
-
 import os
 import json
 import subprocess
